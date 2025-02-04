@@ -1,15 +1,19 @@
 # Curso aprenda JMeter em 1 hora - Iniciante
 
-## Execução
+## Configuração
 
-1 - Basta fazer o clone do projeto.
+1 - Acesse o site https://jmeter.apache.org/download_jmeter.cgi
 
-2 - Acessar a pasta apache-jmeter-5.6.3/bin
+2 - Baixe a versão, eu recomendo a versão .zip
 
-3 - Executar o arquivo JMeter.bat
+3 - Extraia a versão para o local que desejar.
+
+4 - O arquivo de execução do programa é o JMeter.bat que está dentro da pasta "bin" que fica dentro da pasta do apache.
 
 ## Testes
 
-1 - Com o JMeter aberto, basta procurar pelo arquivo test-plan-1.jmx que está no local apache-jmeter-5.6.3/bin
+1 - Abrir o JMeter.
 
-2 - Agora é executar o teste de performance.
+3 - E abrir o arquivo "test-plan-1.jmx".
+
+3 - Agora basta dar um play nos testes e verificar os resultados.
